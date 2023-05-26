@@ -1,0 +1,10 @@
+matplotlib==3.7.1
+mouse==0.7.1
+numpy==1.24.3
+pandas==2.0.1
+Pillow==9.5.0
+PyAutoGUI==0.9.54
+PyGetWindow==0.0.9
+scipy==1.10.1
+seaborn==0.12.2
+rich==13.3.5
